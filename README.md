@@ -1,5 +1,9 @@
 # The Sports-Hub
 
+// Here small video for the app 
+
+https://github.com/Hello07Anas/Sports-Hub/assets/120333186/fd752176-1650-4b95-b7f8-18afb2e6795d
+
 ## Overview
 The Sports App is an iOS application designed to provide users with information about various sports, leagues, and teams. It allows users to browse sports, view league details, see upcoming events, check latest results, and manage their favorite leagues.
 
@@ -97,7 +101,5 @@ The app is designed using MVVM to ensure a clean and maintainable codebase.
 - Anas Salah: [GitHub Profile](https://github.com/Hello07Anas)
 - Ywsoliman: [GitHub Profile](https://github.com/ywsoliman)
 
-// Here small video for the app 
 
-https://github.com/Hello07Anas/Sports-Hub/assets/120333186/fd752176-1650-4b95-b7f8-18afb2e6795d
 
