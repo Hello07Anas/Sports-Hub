@@ -94,8 +94,8 @@ The app is designed using MVVM to ensure a clean and maintainable codebase.
 - **Kingfisher**: For image downloading and caching.
 
 ## Project Management
-- You will work in pairs.
-- The deadline to deliver your project is 16/05/2024 (8 days period).
+- with my Teammate.
+- The deadline to deliver  (8 days period).
 
 ## Contributors
 - Anas Salah: [GitHub Profile](https://github.com/Hello07Anas)
